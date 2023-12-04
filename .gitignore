@@ -5,6 +5,7 @@ dataset/
 outputDir/
 __pycache__/
 .idea/
+.DS_Store
 
 # Distribution / packaging
 .Python
