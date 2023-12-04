@@ -6,6 +6,7 @@ outputDir/
 __pycache__/
 .idea/
 .DS_Store
+subplots.png
 
 # Distribution / packaging
 .Python
